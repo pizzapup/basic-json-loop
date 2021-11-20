@@ -1,0 +1,25 @@
+.app {
+  margin: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+.app .game-holder {
+  width: 150px;
+  margin-bottom: 30px;
+  border-bottom: solid 1px #000;
+}
+.app .game-holder .brief-rating {
+  font-size: 9px;
+}
+.app .game-holder .brief-des {
+  margin-bottom: 10px;
+}
