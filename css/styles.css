@@ -85,9 +85,6 @@
 .card__media {
   border: solid 2px #000;
   outline-color: solid 2px #000;
-  width: 150px;
-  height: 150px;
-  background-color: pink;
 }
 @media (prefers-reduced-motion: no-preference) {
   .card__media {

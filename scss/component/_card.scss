@@ -8,9 +8,6 @@
 .card__media {
     @include outline-border(#000);
     @include transition-mix(opacity);
-    width: 150px;
-    height: 150px;
-    background-color: pink;
 
     &:hover {
         opacity: 75%;
