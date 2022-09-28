@@ -12,4 +12,5 @@ Simple HTML site to demonstrate fetching and displaying data from a JSON file us
 - Adobe Photoshop used to create multiple image sizes (full size & thumbnail) [adobe.com/products/photoshop](https://www.adobe.com/products/photoshop/landpa.html?gclid=CjwKCAjwvsqZBhAlEiwAqAHElRdMBvilPgwuushlTRuQ68ekUzAYXhJO3Ug5UeX-BRSOjwAuJjpEkxoCse4QAvD_BwE&sdid=KKQIN&mv=search&kw=photoshop&ef_id=CjwKCAjwvsqZBhAlEiwAqAHElRdMBvilPgwuushlTRuQ68ekUzAYXhJO3Ug5UeX-BRSOjwAuJjpEkxoCse4QAvD_BwE:G:s&s_kwcid=AL!3085!3!522504777012!e!!g!!adobe%20photosho!1712238400!67643547260)
 
 ![screenshot of item gallery](./images/README/screenshot-cards.png)
+
 ![screenshot of item product info](./images/README/screenshot-product.png)
