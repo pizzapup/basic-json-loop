@@ -1,0 +1,33 @@
+body {
+  margin: 0 auto;
+}
+
+.banner {
+  font-weight: 600;
+  color: #fff;
+  margin: 0;
+  height: 40px;
+  @include flex
+}
+
+.project-title {
+  background: #212322;
+
+}
+
+.site-text {
+  background: #00a45a;
+
+}
+
+.page-title {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 2px;
+  margin: 0;
+  padding: 5px 0;
+  text-align: center;
+}
+
+.app {
+  padding: 0 20px;
+
+}

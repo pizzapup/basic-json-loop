@@ -1,0 +1,19 @@
+#card-gallery {
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.card__media {
+    @include outline-border(#000);
+    @include transition-mix(opacity);
+    width: 150px;
+    height: 150px;
+    background-color: pink;
+
+    &:hover {
+        opacity: 75%;
+        border-color: blue
+    }
+}

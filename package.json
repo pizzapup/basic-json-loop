@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/pizzapup/basic-json-loop/issues"
   },
-  "homepage": "https://github.com/pizzapup/basic-json-loop#readme"
+  "homepage": "https://github.com/pizzapup/basic-json-loop#readme",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
 }

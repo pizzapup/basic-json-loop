@@ -1,0 +1,17 @@
+.btn {
+    min-height: 44px;
+    min-width: 80px;
+    background-color: #212322;
+    border: none;
+    color: white;
+    padding: 0.87rem 2.5rem;
+    @include transition-mix;
+
+    &:hover {
+        background-color: hsl(0, 0%, 60%);
+    }
+
+    &:focus {
+        background-color: blue;
+    }
+}

@@ -1,0 +1,27 @@
+.product-page {
+    margin: 0 auto;
+    background-color: #fafafa;
+    @include flex-col(flex-start, center, 15px);
+}
+
+.product__media {
+    background: #eeeeee;
+}
+
+@media only screen and (min-width: $sm) {
+    .product-page {
+        max-width: 1000px;
+    }
+}
+
+.product-page-holder {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+
+}
+
+.product-page-toolbar {
+    @include flex(space-between);
+
+}

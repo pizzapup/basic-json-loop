@@ -1,4 +1,7 @@
-@import "reset.scss";
-@import "home.scss";
-@import "card.scss";
-@import "button.scss";
+@import "./global/variables";
+@import "./global/_mixins.scss";
+@import "./component/_button.scss";
+@import "./component/_product.scss";
+@import "./component/_card.scss";
+@import "./component/_home.scss";
+@import "./global/_reset.scss";

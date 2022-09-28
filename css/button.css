@@ -1,32 +1,11 @@
-.btn {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  background-color: #696969;
-  border: 1px solid #696969;
-  border-radius: 4px;
-  bottom: 0px;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  color: #ffffff;
-  cursor: pointer;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  font: 600 13.328px/16.3934px Inter, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  gap: 0.25rem;
-  height: 32px;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  left: 0px;
-  line-height: 16.3934px;
-  list-style: outside none none;
-  padding-left: 16px;
-  padding-right: 16px;
-  position: relative;
-  right: 0px;
-  text-align: center;
-  top: 0px;
-  white-space: nowrap;
+.btn,
+close {
+  min-height: 44px;
+  min-width: 44px;
+  background-color: black;
+  border: none;
+}
+
+.btn:hover {
+  background-color: hsl(0deg, 0%, 60%);
 }

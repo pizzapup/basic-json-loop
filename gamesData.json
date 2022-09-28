@@ -1,82 +1,92 @@
 [
   {
-    "gameTitle": "Crash",
-    "gameThumbImg": "crash_150.jpg",
-    "gameFullImg": "crash_300.jpg",
-    "gameBriefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "gameDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
-    "gameRating": "E"
+    "title": "Crash",
+    "thumbImg": "crash_150.jpg",
+    "fullImg": "crash_300.jpg",
+    "briefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
+    "rating": "E",
+    "price": "$2.00"
   },
   {
-    "gameTitle": "Super Metroid",
-    "gameThumbImg": "metroid_150.jpg",
-    "gameFullImg": "metroid_300.jpg",
-    "gameBriefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "gameDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
-    "gameRating": "E"
+    "title": "Super Metroid",
+    "thumbImg": "metroid_150.jpg",
+    "fullImg": "metroid_300.jpg",
+    "briefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
+    "rating": "E",
+    "price": "$2.00"
   },
   {
-    "gameTitle": "Spyro",
-    "gameThumbImg": "spyro_150.jpg",
-    "gameFullImg": "spyro_300.jpg",
-    "gameBriefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "gameDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
-    "gameRating": "E"
+    "title": "Spyro",
+    "thumbImg": "spyro_150.jpg",
+    "fullImg": "spyro_300.jpg",
+    "briefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
+    "rating": "E",
+    "price": "$2.00"
   },
   {
-    "gameTitle": "Custom Robo",
-    "gameThumbImg": "custom_150.jpg",
-    "gameFullImg": "custom_300.jpg",
-    "gameBriefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "gameDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
-    "gameRating": "E"
+    "title": "Custom Robo",
+    "thumbImg": "custom_150.jpg",
+    "fullImg": "custom_300.jpg",
+    "briefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
+    "rating": "E",
+    "price": "$2.00"
   },
   {
-    "gameTitle": "Crash",
-    "gameThumbImg": "crash_150.jpg",
-    "gameFullImg": "crash_300.jpg",
-    "gameBriefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "gameDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
-    "gameRating": "E"
+    "title": "Crash",
+    "thumbImg": "crash_150.jpg",
+    "fullImg": "crash_300.jpg",
+    "briefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
+    "rating": "E",
+    "price": "$2.00"
   },
   {
-    "gameTitle": "Super Metroid",
-    "gameThumbImg": "metroid_150.jpg",
-    "gameFullImg": "metroid_300.jpg",
-    "gameBriefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "gameDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
-    "gameRating": "E"
+    "title": "Super Metroid",
+    "thumbImg": "metroid_150.jpg",
+    "fullImg": "metroid_300.jpg",
+    "briefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
+    "rating": "E",
+    "price": "$2.00"
   },
   {
-    "gameTitle": "Spyro",
-    "gameThumbImg": "spyro_150.jpg",
-    "gameFullImg": "spyro_300.jpg",
-    "gameBriefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "gameDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
-    "gameRating": "E"
+    "title": "Spyro",
+    "thumbImg": "spyro_150.jpg",
+    "fullImg": "spyro_300.jpg",
+    "briefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
+    "rating": "E",
+    "price": "$2.00"
   },
   {
-    "gameTitle": "Custom Robo",
-    "gameThumbImg": "custom_150.jpg",
-    "gameFullImg": "custom_300.jpg",
-    "gameBriefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "gameDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
-    "gameRating": "E"
+    "title": "Custom Robo",
+    "thumbImg": "custom_150.jpg",
+    "fullImg": "custom_300.jpg",
+    "briefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
+    "rating": "E",
+    "price": "$2.00"
   },
   {
-    "gameTitle": "Spyro",
-    "gameThumbImg": "spyro_150.jpg",
-    "gameFullImg": "spyro_300.jpg",
-    "gameBriefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "gameDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
-    "gameRating": "E"
+    "title": "Spyro",
+    "thumbImg": "spyro_150.jpg",
+    "fullImg": "spyro_300.jpg",
+    "briefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
+    "rating": "E",
+    "price": "$2.00"
   },
   {
-    "gameTitle": "Custom Robo",
-    "gameThumbImg": "custom_150.jpg",
-    "gameFullImg": "custom_300.jpg",
-    "gameBriefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "gameDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
-    "gameRating": "E"
+    "title": "Custom Robo",
+    "thumbImg": "custom_150.jpg",
+    "fullImg": "custom_300.jpg",
+    "briefDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, expedita cum quam neque nostrum officiis libero ipsam ratione, amet quas temporibus dicta accusantium? Ad voluptate similique nam laborum amet officia?",
+    "rating": "E",
+    "price": "$2.00"
   }
 ]
