@@ -1,0 +1,23 @@
+{
+  "name": "basic-json-loop",
+  "version": "1.0.0",
+  "description": "Simple HTML site to demonstrate looping through json file to display information.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pizzapup/basic-json-loop.git"
+  },
+  "author": "pizzapup_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pizzapup/basic-json-loop/issues"
+  },
+  "homepage": "https://github.com/pizzapup/basic-json-loop#readme"
+}
